@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Is somwhere in the middle because it allows to add files that will belong to the repository but is not there just yet. this way you dont create different repository every time you add a new file
